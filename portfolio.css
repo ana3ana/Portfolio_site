@@ -1,0 +1,92 @@
+
+* {
+    font-family: 'Nanum Gothic', sans-serif;
+
+}
+
+.nameHeader {
+font-size: 27px;
+color: red;
+padding-left: 620px;
+padding-right: 625px;
+/* margin-left: 0 auto;
+margin-right: 0 auto; */
+
+}
+
+.contactHeader {
+  font-size: 27px;
+  color: red;
+  padding-left: 620px;
+  padding-right: 625px;
+  margin-left: 0 auto;
+  margin-right: 0 auto;
+
+}
+
+.biohead {
+  font-size: 20px;
+  color: red;
+  padding-left: 620px;
+  padding-right: 625px;
+  margin-left: 0 auto;
+  margin-right: 0 auto;
+
+}
+
+.biotext {
+  border: 10px solid black;
+  padding-bottom: 50px;
+}
+
+.projecthistoryheader p {
+  border: 3px solid black;
+  font-size: 50px;
+  padding-left: 620px;
+  padding-right: 625px;
+  margin-left: 0 auto;
+  margin-right: 0 auto;
+
+}
+
+.currentjobhead {
+  background-color: lightyellow;
+
+}
+.currentjob1 {
+  background-color: lightyellow;
+
+}
+.pastjobtitlehead {
+  background-color: lightgreen;
+
+}
+
+.pastjob1 {
+  background-color: lightgreen;
+}
+
+.pastjobtitlehead2{
+  background-color: lightpink;
+
+}
+.pastjob2 {
+  background-color: lightpink;
+
+}
+.languages {
+  background-color: lightblue;
+
+}
+.computerskills {
+  background-color: lightblue;
+
+}
+
+footer ul { border-style: solid;
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 12rem;
+
+
+}
